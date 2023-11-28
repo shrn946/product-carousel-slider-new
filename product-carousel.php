@@ -63,8 +63,7 @@ function swiper_latest_posts_settings_page() {
         <div style="max-width: 800px;">
             <!-- Replace the placeholder below with your actual video iframe code -->
             <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-               <iframe width="560" height="315" src="https://www.youtube.com/embed/6aYvQnGjfjI?si=1jGXLCyVGqJBShHv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            </div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-HkhiVhCTRc?si=PtFVMHywz2fhu0-U&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>            </div>
         </div>
     </div>
     <?php
